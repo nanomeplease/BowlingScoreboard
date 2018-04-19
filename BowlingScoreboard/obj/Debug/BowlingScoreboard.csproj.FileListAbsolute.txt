@@ -1,0 +1,7 @@
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\bin\Debug\BowlingScoreboard.exe.config
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\bin\Debug\BowlingScoreboard.exe
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\bin\Debug\BowlingScoreboard.pdb
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\obj\Debug\BowlingScoreboard.csprojResolveAssemblyReference.cache
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\obj\Debug\BowlingScoreboard.csproj.CoreCompileInputs.cache
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\obj\Debug\BowlingScoreboard.exe
+c:\users\carlos\source\repos\BowlingScoreboard\BowlingScoreboard\obj\Debug\BowlingScoreboard.pdb
